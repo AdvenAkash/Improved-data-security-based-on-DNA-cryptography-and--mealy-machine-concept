@@ -1,0 +1,9 @@
+Nowadays,the amount of data produced and stored in computing
+devices is increasing at an alarming rate. Tremendous amounts
+of critical and sensitive data are transmitted between all
+these devices. Thus, it is very imperative to guarantee the
+security of all these indispensable data. Cryptography is a
+commonly used technique to ensure data security every simple. The fundamental
+objective of cryptography is to transmit data from the sender
+to the receiver in the most secure way, so that an attacker is
+unable to extract the original data content.
